@@ -1,22 +1,22 @@
-# MHX Digital — AI-Ready Lab
+# MHX Digital: AI-Ready Lab
 
-We make enterprise-grade AI accessible to mid-size companies that can't afford Accenture and can't wait for a hire. Based in Manaus, Brazil. Founded by a fullstack developer with a background in economics, blockchain, and OTC compliance.
+We implement AI in real business processes for companies that don't have the budget for Accenture and can't wait six months for a senior hire. Based in Manaus, Brazil. The founder has a background in software development, economics, and OTC compliance.
 
-We implement AI in real business processes: court deadline monitoring, clinical session transcription, electoral campaign intelligence, on-chain liquidity management, and quantitative trading systems. All repos are private. This page is our public footprint.
+Court deadline monitoring, clinical session transcription, electoral campaign intelligence, on-chain liquidity management, quantitative trading. All repos are private. This is our public profile.
 
 ---
 
 ## What we ship
 
-**LexNotify** — Real-time court monitoring across 48 Brazilian tribunals. Lawyers get notified before deadlines, not after. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**LexNotify.** Monitors 48 Brazilian tribunals and notifies lawyers before deadlines pass. Reads documents, transcribes hearings, generates legal filings. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
-**Vottus** — Electoral intelligence platform for campaign teams. Territorial mapping, CRM, AI advisor, and five scenario simulations in one tool. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**Vottus.** Electoral intelligence for campaign teams. Territorial mapping, field CRM, AI advisor and five scenario simulations in one tool. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
-**Psyncore** — Clinical management for ABA therapy. Structured records, session transcription, and progress tracking built around the real workflow of behavioral psychologists. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**Psyncore.** Clinical management for ABA therapy. Records sessions, auto-transcribes, fills clinical notes in CFP format and scores protocols like VB-MAPP and ABLLS-R. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
-**Statum-Fi** — Concentrated liquidity management on Solana. Monitors Orca Whirlpool positions 24/7 and rebalances automatically when price breaks the defined range. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**Statum-Fi.** Concentrated liquidity on Solana. Watches Orca Whirlpool positions around the clock and rebalances when price breaks the range. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
-**Shield Finance** — Seven trading bots running on Binance, Bybit, and MEXC with independent strategies, risk controls, and a rolling hyperparameter optimizer. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**Shield Finance.** Seven trading bots on Binance, Bybit and MEXC. Each runs a separate strategy with its own risk controls and a hyperparameter optimizer that recalibrates every 48 hours. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
 ---
 
