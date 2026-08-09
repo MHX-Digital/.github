@@ -10,7 +10,7 @@ Court deadline monitoring, clinical session transcription, electoral campaign in
 
 **LexNotify.** Monitors 48 Brazilian tribunals and notifies lawyers before deadlines pass. Reads documents, transcribes hearings, generates legal filings. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
-**Vottus.** Electoral intelligence for campaign teams. Territorial mapping, field CRM, AI advisor and five scenario simulations in one tool. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
+**Votanai.** Electoral intelligence for campaign teams. Territorial mapping, field CRM, AI advisor and five scenario simulations in one tool. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
 **Psyncore.** Clinical management for ABA therapy. Records sessions, auto-transcribes, fills clinical notes in CFP format and scores protocols like VB-MAPP and ABLLS-R. [mhxdigital.com/projetos](https://www.mhxdigital.com/projetos)
 
